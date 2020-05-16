@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e12fe2d1-0061-499a-aa7e-938f22695576" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tommy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingProblems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/CF_A_1352.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/CF_B_1352.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/CF_C_1352.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/CF_D_1352.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2016.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2017.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2019.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2010.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2015.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2016.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2017.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2019.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2005.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2006$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2006.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2008.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2008_HK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2010.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2012.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2013.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2014.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2015_HK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2016.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2017.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2019.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2005.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2006.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2007.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2008.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2009.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2010.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2011.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2012.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2013.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2016.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2017.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2018.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2000$WebPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004$Seg$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004$Seg$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004$Seg$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004$Seg$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004$Seg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2005.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2007.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2009$Friend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2009.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2010$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2010.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2011.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2015.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2018$Page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2018.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2019$Step.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2019.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/Main$pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/Range.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2006$stat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2006.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2009.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2010.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2014.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2015.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2017.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2018.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2019.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2003$RymeType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2005.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2006$KeyValuePair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2006.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2007.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2009.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2010.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2011.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2012.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2013.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2014.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2015.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2016.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2017.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2019.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2001$Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2002$Direction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2003$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2007$Friend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2007.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2008.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2012.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2013.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2014.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2017.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2018$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2018.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S4_2000$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S4_2000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S4_2003.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S4_2011.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S5_2000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/Sheep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1305.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1334.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1342.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1345.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1305.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1330.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1334.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1342.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1345.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_C_1305.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_C_1330.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_C_1342.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_D_1330.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_D_1342.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/GCupJunior/GCup_J1_2019.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/GCupJunior/GCup_J2_2019.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/GCupJunior/GCup_J3_2019.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/GCupJunior/GCup_J5_2019.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/HelperClasses/Time$TimeMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/HelperClasses/Time.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/HelperClasses/Vector2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Others/KnightL_on_the_Chessboard$Pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Others/KnightL_on_the_Chessboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2008_HK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2015_HK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S4_2000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S4_2003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S4_2011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S5_2000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1334.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1342.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1345.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1352.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1334.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1342.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1345.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1352.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_C_1305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_C_1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_C_1342.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_C_1342.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_C_1352.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_D_1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_D_1342.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_D_1352.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_E_1352.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/GCupJunior/GCup_J1_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/GCupJunior/GCup_J2_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/GCupJunior/GCup_J3_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/GCupJunior/GCup_J5_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/HelperClasses/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/HelperClasses/Vector2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tommy/Others/KnightL_on_the_Chessboard.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Pd7v9dOxibsD73E5XShAvsQ8GU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/Tommy/J5_2018_Main.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tommy\IdeaProjects\CCC\src\Tommy\Codeforces" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="show intention action" />
+      <command value="snippet" />
+      <command value="scale" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CF_D_1352">
+    <configuration name="CF_A_1345" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF_A_1345" />
+      <module name="CodingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CF_A_1352" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tommy.Codeforces.CF_A_1352" />
+      <module name="CodingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CF_B_1352" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tommy.Codeforces.CF_B_1352" />
+      <module name="CodingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CF_C_1352" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tommy.Codeforces.CF_C_1352" />
+      <module name="CodingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CF_D_1352" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tommy.Codeforces.CF_D_1352" />
+      <module name="CodingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CF_A_1345" />
+      <item itemvalue="Application.CF_A_1352" />
+      <item itemvalue="Application.CF_B_1352" />
+      <item itemvalue="Application.CF_C_1352" />
+      <item itemvalue="Application.CF_D_1352" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CF_D_1352" />
+        <item itemvalue="Application.CF_C_1352" />
+        <item itemvalue="Application.CF_B_1352" />
+        <item itemvalue="Application.CF_A_1352" />
+        <item itemvalue="Application.CF_A_1345" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e12fe2d1-0061-499a-aa7e-938f22695576" name="Default Changelist" comment="" />
+      <created>1560666684571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560666684571</updated>
+      <workItem from="1589066835989" duration="158000" />
+      <workItem from="1589067053693" duration="3014000" />
+      <workItem from="1589070121653" duration="21000" />
+      <workItem from="1589070154098" duration="9000" />
+      <workItem from="1589070180868" duration="449000" />
+      <workItem from="1589561785008" duration="3997000" />
+      <workItem from="1589651314278" duration="1030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1243" y="210" key="#CF_C_1342" timestamp="1588442703834">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1243" y="210" key="#CF_C_1342/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588442703834" />
+    <state x="552" y="198" key="#Inspections" timestamp="1585249364999">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Inspections/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1585249364999" />
+    <state x="552" y="198" key="#Plugins" timestamp="1584245086501">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1584245086501" />
+    <state x="552" y="198" key="#Project_Structure" timestamp="1582305104635">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1582305104635" />
+    <state x="709" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1589066993996">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589066993996" />
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1584991013863">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584991013863" />
+    <state x="640" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589565811641">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589565811641" />
+    <state x="756" y="424" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581526057463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="424" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1581526057463" />
+    <state x="676" y="249" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1587858805891">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="676" y="249" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1587858805891" />
+    <state x="623" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584670826855">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584670826855" />
+    <state x="274" y="311" key="#xdebugger.evaluate" timestamp="1587850340446">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="274" y="311" key="#xdebugger.evaluate/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1587850340446" />
+    <state x="1338" y="254" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1585687399321" />
+    <state width="435" height="466" key="DebuggerActiveHint" timestamp="1588445813228">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="435" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588445813228" />
+    <state width="430" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1587261099441" />
+    <state width="494" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1585687534303" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1584233268794">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584233268794" />
+    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1589066987474">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589066987474" />
+    <state width="1921" height="372" key="GridCell.Tab.0.bottom" timestamp="1589069575477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588482348624" />
+    <state width="1921" height="372" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589069575477" />
+    <state width="1921" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585762357141" />
+    <state width="1921" height="372" key="GridCell.Tab.0.center" timestamp="1589069575477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="297" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588482348624" />
+    <state width="1921" height="372" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589069575477" />
+    <state width="1921" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585762357141" />
+    <state width="1921" height="372" key="GridCell.Tab.0.left" timestamp="1589069575477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="297" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588482348624" />
+    <state width="1921" height="372" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589069575477" />
+    <state width="1921" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585762357141" />
+    <state width="1921" height="372" key="GridCell.Tab.0.right" timestamp="1589069575477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="297" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588482348624" />
+    <state width="1921" height="372" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589069575477" />
+    <state width="1921" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585762357141" />
+    <state width="1921" height="372" key="GridCell.Tab.1.bottom" timestamp="1589069575477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="297" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588482348624" />
+    <state width="1921" height="372" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589069575477" />
+    <state width="1921" height="297" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585762357006" />
+    <state width="1921" height="372" key="GridCell.Tab.1.center" timestamp="1589069575477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="297" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588482348624" />
+    <state width="1921" height="372" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589069575477" />
+    <state width="1921" height="297" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585762357006" />
+    <state width="1921" height="372" key="GridCell.Tab.1.left" timestamp="1589069575477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="297" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588482348624" />
+    <state width="1921" height="372" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589069575477" />
+    <state width="1921" height="297" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585762357005" />
+    <state width="1921" height="372" key="GridCell.Tab.1.right" timestamp="1589069575477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="297" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588482348624" />
+    <state width="1921" height="372" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589069575477" />
+    <state width="1921" height="297" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585762357006" />
+    <state width="1921" height="302" key="GridCell.Tab.2.bottom" timestamp="1587849551836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="302" key="GridCell.Tab.2.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1587849551836" />
+    <state width="1921" height="302" key="GridCell.Tab.2.center" timestamp="1587849551836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="302" key="GridCell.Tab.2.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1587849551836" />
+    <state width="1921" height="302" key="GridCell.Tab.2.left" timestamp="1587849551836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="302" key="GridCell.Tab.2.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1587849551836" />
+    <state width="1921" height="302" key="GridCell.Tab.2.right" timestamp="1587849551836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1921" height="302" key="GridCell.Tab.2.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1587849551836" />
+    <state x="336" y="273" key="SettingsEditor" timestamp="1589066843227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1239" y="241" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588458446956" />
+    <state x="336" y="273" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589066843227" />
+    <state x="421" y="171" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584245570133" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1584816466693">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1584816466693" />
+    <state x="619" y="219" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585959096811">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="619" y="219" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1585959096811" />
+    <state x="667" y="96" width="585" height="888" key="find.popup" timestamp="1589066322662">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="96" width="585" height="888" key="find.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589066322662" />
+    <state x="-1304" y="250" width="672" height="677" key="run.anything.popup" timestamp="1588471538002">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1304" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588471538002" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1587924684296" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585684446403" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1589651415150">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589651415150" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589069588500" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584819782428" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2013.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2013.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2013.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2003.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2000.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2000.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2012.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2010.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2004.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2004.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2010.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2014.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2014.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Senior/S4_2000.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2010.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1342.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="args" />
+        <watch expression="went[5]" />
+        <watch expression="grid[4]" />
+        <watch expression="sheep.toArray()[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CCC$S4_2003.ic" NAME="S4_2003 Coverage Results" MODIFIED="1569892796940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tommy.Senior.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CCC$J3_2016.ic" NAME="J3_2016 Coverage Results" MODIFIED="1573952551327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
