@@ -14,10 +14,33 @@ public class CF_E_1352
         {
             int n = readInt();
             int[] elements = new int[n];
+            int[] countOfElements = new int[n];
             for (int j = 0; j < n; j++)
             {
-                elements[j] = readInt();
+                var el = readInt();
+                elements[j] = el;
+                countOfElements[el - 1]++;
             }
+            long sum = 0;
+            for (int j = 0; j < n - 1; j++)
+            {
+                int curSum = elements[j];
+                for (int k = j + 1; k < n; k++)
+                {
+                    curSum += elements[k];
+                    if (curSum > n)
+                    {
+                        break;
+                    }
+                    int count = countOfElements[curSum - 1];
+                    if (count > 0)
+                    {
+                        sum += count;
+                        countOfElements[curSum - 1] = 0;
+                    }
+                }
+            }
+            System.out.println(sum);
         }
     }
 
