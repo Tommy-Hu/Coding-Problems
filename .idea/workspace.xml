@@ -6,277 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e12fe2d1-0061-499a-aa7e-938f22695576" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingProblems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/CF_D_1350.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingProblems/CF_D_1350.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/META-INF/CodingProblems.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2016.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2017.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J1_2019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2010.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2015.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2016.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2017.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J2_2019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2006$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2008.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2008_HK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2010.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2012.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2013.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2014.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2015_HK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2016.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2017.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J3_2019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2007.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2008.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2009.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2010.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2011.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2012.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2013.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2016.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2017.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J4_2018.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2000$WebPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004$Seg$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004$Seg$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004$Seg$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004$Seg$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004$Seg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2007.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2009$Friend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2009.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2010$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2010.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2011.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2015.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2018$Page.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2018.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2019$Step.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/J5_2019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/Main$pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Junior/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/Range.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2006$stat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2009.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2010.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2014.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2015.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2017.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2018.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S1_2019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2003$RymeType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2006$KeyValuePair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2007.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2009.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2010.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2011.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2012.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2013.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2014.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2015.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2016.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2017.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S2_2019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2001$Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2002$Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2003$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2007$Friend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2007.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2008.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2012.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2013.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2014.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2017.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2018$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S3_2018.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S4_2000$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S4_2000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S4_2003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S4_2011.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/S5_2000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/CCC/Senior/Sheep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1305.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1334.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1342.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1345.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1350.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1352.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_A_1354.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1305.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1330.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1334.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1342.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1345.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_B_1352.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_C_1305.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_C_1330.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_C_1342.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_C_1352.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_D_1330.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_D_1342.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_D_1352.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_E_1352.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_F_1352.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Codeforces/CF_G_1352.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/GCupJunior/GCup_J1_2019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/GCupJunior/GCup_J2_2019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/GCupJunior/GCup_J3_2019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/GCupJunior/GCup_J5_2019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/HelperClasses/Time$TimeMode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/HelperClasses/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/HelperClasses/Vector2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Others/KnightL_on_the_Chessboard$Pair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/Tommy/Others/KnightL_on_the_Chessboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CF_D_1350.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J1_2000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J1_2003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J1_2004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J1_2016.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J1_2017.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J1_2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J1_2019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J2_2000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J2_2010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J2_2015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J2_2016.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J2_2017.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J2_2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J2_2019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2008_HK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2008_HK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2013.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2015_HK.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2016.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2017.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J3_2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J3_2019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2010.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2012.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2016.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2017.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J4_2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J4_2018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J5_2000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J5_2004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J5_2005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J5_2007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J5_2009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J5_2010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J5_2011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2015.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J5_2019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Junior/J5_2020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Junior/J5_2020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S1_2002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S1_2006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S1_2009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S1_2010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S1_2014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S1_2015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S1_2017.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S1_2018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S1_2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S1_2019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2010.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2012.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2014.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2016.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2017.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S2_2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S2_2019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S3_2001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S3_2007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2008.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2012.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S3_2013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S3_2014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S3_2017.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S3_2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S3_2018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S4_2000.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S4_2003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S4_2003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S4_2011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/Senior/S4_2011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/CCC/Senior/S5_2000.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1305.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_A_1305.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1334.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_A_1334.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1342.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_A_1342.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1345.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_A_1345.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1350.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1352.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_A_1354.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_A_1354.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1305.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_B_1305.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_B_1330.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1334.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_B_1334.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1342.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1345.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_B_1345.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_B_1352.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_B_1352.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_C_1305.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_C_1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_C_1330.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_C_1342.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_C_1342.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_C_1342.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_C_1352.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_C_1352.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_D_1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_D_1330.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_D_1342.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_D_1342.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_D_1352.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/CF_D_1352.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_E_1352.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_F_1352.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Codeforces/CF_G_1352.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/GCupJunior/GCup_J1_2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GCupJunior/GCup_J1_2019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/GCupJunior/GCup_J2_2019.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/GCupJunior/GCup_J3_2019.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/GCupJunior/GCup_J5_2019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GCupJunior/GCup_J5_2019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/HelperClasses/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelperClasses/Time.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/HelperClasses/Vector2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tommy/Others/KnightL_on_the_Chessboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Others/KnightL_on_the_Chessboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingProblems/GFG_MaxSumContiguousSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingProblems/GFG_MaxSumContiguousSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeeksForGeeks/GFG_MaxSumContiguousSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeeksForGeeks/GFG_MaxSumContiguousSubArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,6 +26,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1Pd7v9dOxibsD73E5XShAvsQ8GU" />
   <component name="ProjectLevelVcsManager">
@@ -320,7 +58,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/Tommy/J5_2018_Main.java" />
   </component>
   <component name="RecentsManager">
@@ -337,11 +75,40 @@
       <command value="show intention action" />
       <command value="snippet" />
       <command value="scale" />
+      <command value="{" />
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="CF_A_1364" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CF_A_1364" />
+  <component name="RunManager" selected="Application.BinarySearchIO">
+    <configuration name="BinarySearchIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchIO" />
+      <module name="CodingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CF_A_1384" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF_A_1384" />
+      <module name="CodingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CF_B_1382" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF_B_1382" />
+      <module name="CodingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CF_B_1384" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF_B_1384" />
+      <module name="CodingProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CF_C_1382" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CF_C_1382" />
       <module name="CodingProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -349,7 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CF_A_1364" />
+        <item itemvalue="Application.BinarySearchIO" />
+        <item itemvalue="Application.CF_B_1384" />
+        <item itemvalue="Application.CF_A_1384" />
+        <item itemvalue="Application.CF_C_1382" />
+        <item itemvalue="Application.CF_B_1382" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +159,29 @@
       <workItem from="1591540420489" duration="5140000" />
       <workItem from="1591557348943" duration="6200000" />
       <workItem from="1592020291625" duration="1238000" />
-      <workItem from="1592031536154" duration="17114000" />
+      <workItem from="1592031536154" duration="18880000" />
+      <workItem from="1592618477600" duration="2348000" />
+      <workItem from="1592689148718" duration="7397000" />
+      <workItem from="1592923014646" duration="4735000" />
+      <workItem from="1592932635785" duration="3460000" />
+      <workItem from="1593030727238" duration="1629000" />
+      <workItem from="1593093781924" duration="10342000" />
+      <workItem from="1593210316096" duration="2196000" />
+      <workItem from="1593293307392" duration="3398000" />
+      <workItem from="1593580698180" duration="12427000" />
+      <workItem from="1593814195837" duration="7066000" />
+      <workItem from="1593893243043" duration="12397000" />
+      <workItem from="1594062344170" duration="4200000" />
+      <workItem from="1594139534047" duration="5335000" />
+      <workItem from="1594482632799" duration="4041000" />
+      <workItem from="1594487715806" duration="3974000" />
+      <workItem from="1594565109397" duration="2329000" />
+      <workItem from="1594576148083" duration="4745000" />
+      <workItem from="1594996821348" duration="6302000" />
+      <workItem from="1595007497193" duration="2652000" />
+      <workItem from="1595107874513" duration="6313000" />
+      <workItem from="1595343546166" duration="6483000" />
+      <workItem from="1595601553393" duration="5059000" />
     </task>
     <servers />
   </component>
@@ -396,6 +189,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="669" y="159" key="#BinarySearchIO" timestamp="1596308790938">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="159" key="#BinarySearchIO/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596308790938" />
     <state x="669" y="159" key="#CF_A_1354" timestamp="1589740308946">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -404,10 +201,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1243" y="210" key="#CF_C_1342/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588442703834" />
-    <state x="552" y="198" key="#Inspections" timestamp="1585249364999">
+    <state x="669" y="159" key="#CF_C_1373" timestamp="1593102174863">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="198" key="#Inspections/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1585249364999" />
+    <state x="669" y="159" key="#CF_C_1373/0.0.1920.1080@0.0.1920.1080" timestamp="1593102174863" />
     <state x="845" y="403" key="#Notifications" timestamp="1590029959963">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -416,20 +213,19 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="198" key="#Plugins/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590029399593" />
-    <state x="552" y="198" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1584245086501" />
-    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592093680127">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596312896463">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592093680127" />
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596312896463" />
     <state x="709" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1589066993996">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="709" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589066993996" />
-    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1590218440148">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1155" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1593910094769">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1155" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1593910094769" />
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590218440148" />
-    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584991013863" />
     <state x="640" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1590029001462">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -438,85 +234,80 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="676" y="249" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1587858805891" />
-    <state x="623" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584670826855">
+    <state x="1338" y="254" key="#xdebugger.evaluate" timestamp="1594146864765">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584670826855" />
-    <state x="1338" y="254" key="#xdebugger.evaluate" timestamp="1591562413516">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1646" y="311" key="#xdebugger.evaluate/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589661481424" />
-    <state x="1143" y="175" key="#xdebugger.evaluate/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1591285317762" />
-    <state x="1338" y="254" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1591562413516" />
-    <state x="565" y="105" key="CommitChangelistDialog2" timestamp="1591560678691">
+    <state x="-855" y="284" key="#xdebugger.evaluate/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1593910236550" />
+    <state x="1143" y="175" key="#xdebugger.evaluate/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593817939261" />
+    <state x="1338" y="254" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1594146864765" />
+    <state x="565" y="105" key="CommitChangelistDialog2" timestamp="1595601691377">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1355" y="105" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590939847445" />
-    <state x="565" y="105" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1591282996403" />
-    <state x="565" y="105" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1591560678691" />
-    <state width="494" height="466" key="DebuggerActiveHint" timestamp="1591562284915">
+    <state x="565" y="105" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593909230055" />
+    <state x="565" y="105" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1595601691377" />
+    <state width="494" height="466" key="DebuggerActiveHint" timestamp="1594146068297">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="435" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589661246291" />
-    <state width="455" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1591284402463" />
-    <state width="494" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1591562284915" />
+    <state width="435" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1592933517071" />
+    <state width="455" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593818898876" />
+    <state width="494" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1594146068296" />
     <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1590030171297">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590030171297" />
-    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584233268794" />
-    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1589066987474">
+    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1596307854064">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1589066987474" />
-    <state width="1921" height="287" key="GridCell.Tab.0.bottom" timestamp="1592095285589">
+    <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596307854064" />
+    <state width="634" height="643" key="GridCell.Tab.0.bottom" timestamp="1596313160789">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590977445841" />
-    <state width="1921" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592095285589" />
-    <state width="1921" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591563554001" />
-    <state width="1921" height="287" key="GridCell.Tab.0.center" timestamp="1592095285589">
+    <state width="1921" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1593913599268" />
+    <state width="634" height="643" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596313160789" />
+    <state width="1921" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595606653890" />
+    <state width="634" height="643" key="GridCell.Tab.0.center" timestamp="1596313160789">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="287" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590977445841" />
-    <state width="1921" height="287" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592095285589" />
-    <state width="1921" height="287" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591563554001" />
-    <state width="1921" height="287" key="GridCell.Tab.0.left" timestamp="1592095285589">
+    <state width="1921" height="290" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1593913599268" />
+    <state width="634" height="643" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596313160789" />
+    <state width="1921" height="290" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595606653890" />
+    <state width="634" height="643" key="GridCell.Tab.0.left" timestamp="1596313160789">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="287" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590977445841" />
-    <state width="1921" height="287" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592095285589" />
-    <state width="1921" height="287" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591563554001" />
-    <state width="1921" height="287" key="GridCell.Tab.0.right" timestamp="1592095285589">
+    <state width="1921" height="290" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1593913599268" />
+    <state width="634" height="643" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596313160789" />
+    <state width="1921" height="290" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595606653890" />
+    <state width="634" height="643" key="GridCell.Tab.0.right" timestamp="1596313160789">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="287" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590977445841" />
-    <state width="1921" height="287" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592095285589" />
-    <state width="1921" height="287" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591563554001" />
-    <state width="1921" height="287" key="GridCell.Tab.1.bottom" timestamp="1592095285589">
+    <state width="1921" height="290" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1593913599268" />
+    <state width="634" height="643" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596313160789" />
+    <state width="1921" height="290" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595606653890" />
+    <state width="634" height="643" key="GridCell.Tab.1.bottom" timestamp="1596313160791">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="287" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590977445842" />
-    <state width="1921" height="287" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592095285589" />
-    <state width="1921" height="287" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591563554001" />
-    <state width="1921" height="287" key="GridCell.Tab.1.center" timestamp="1592095285589">
+    <state width="1921" height="290" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1593913599268" />
+    <state width="634" height="643" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596313160791" />
+    <state width="1921" height="290" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595606653890" />
+    <state width="634" height="643" key="GridCell.Tab.1.center" timestamp="1596313160790">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="287" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590977445842" />
-    <state width="1921" height="287" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592095285589" />
-    <state width="1921" height="287" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591563554001" />
-    <state width="1921" height="287" key="GridCell.Tab.1.left" timestamp="1592095285589">
+    <state width="1921" height="290" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1593913599268" />
+    <state width="634" height="643" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596313160790" />
+    <state width="1921" height="290" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595606653890" />
+    <state width="634" height="643" key="GridCell.Tab.1.left" timestamp="1596313160790">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="287" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590977445842" />
-    <state width="1921" height="287" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592095285589" />
-    <state width="1921" height="287" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591563554001" />
-    <state width="1921" height="287" key="GridCell.Tab.1.right" timestamp="1592095285589">
+    <state width="1921" height="290" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1593913599268" />
+    <state width="634" height="643" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596313160790" />
+    <state width="1921" height="290" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595606653890" />
+    <state width="634" height="643" key="GridCell.Tab.1.right" timestamp="1596313160790">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1921" height="287" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590977445842" />
-    <state width="1921" height="287" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592095285589" />
-    <state width="1921" height="287" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591563554001" />
+    <state width="1921" height="290" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1593913599268" />
+    <state width="634" height="643" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596313160790" />
+    <state width="1921" height="290" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595606653890" />
     <state width="1921" height="302" key="GridCell.Tab.2.bottom" timestamp="1587849551836">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -537,25 +328,24 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="709" y="260" key="RollbackChangesDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590262282483" />
-    <state x="730" y="163" key="SettingsEditor" timestamp="1592087935037">
+    <state x="263" y="143" key="SettingsEditor" timestamp="1596312638868">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1239" y="241" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588458446956" />
-    <state x="730" y="163" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592087935037" />
-    <state x="421" y="171" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584245570133" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1584816466693">
+    <state x="263" y="143" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596312638868" />
+    <state x="681" y="280" width="540" height="524" key="StructurePopup" timestamp="1593818358646">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1584816466693" />
+    <state x="681" y="280" width="540" height="524" key="StructurePopup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593818358646" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590030192898">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590030192898" />
-    <state x="-1301" y="219" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589655764850">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="619" y="219" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594577652108">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1301" y="219" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589655764850" />
-    <state x="619" y="219" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1585959096811" />
+    <state x="619" y="219" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1594577652108" />
     <state x="690" y="301" key="extract.method.dialog" timestamp="1590263364825">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -568,18 +358,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="630" y="328" key="git4idea.merge.GitPullDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590030383145" />
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1591561978741">
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1594568654131">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1304" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589659613372" />
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1590546892469" />
-    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1591561978741" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1592093668008">
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593816903875" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1594568654131" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1596312948106">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1590950496986" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1592093668008" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584819782428" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1592693777333" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1596312948106" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593101632851" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -664,22 +454,12 @@
           <line>31</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Others/Quick.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="args" />
-        <watch expression="went[5]" />
-        <watch expression="grid[4]" />
-        <watch expression="sheep.toArray()[0]" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CodingProblems$CF_E_1350.ic" NAME="CF_E_1350 Coverage Results" MODIFIED="1590210284232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/CCC$S4_2003.ic" NAME="S4_2003 Coverage Results" MODIFIED="1569892796940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Tommy.Senior.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/CCC$J3_2016.ic" NAME="J3_2016 Coverage Results" MODIFIED="1573952551327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
